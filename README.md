@@ -59,7 +59,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Built With
 
-- [Node](https://nodejs.org/en/) - JavaScript runtime environment
+- [Node](https://nodejs.org/) - JavaScript runtime environment
+- [MongoDB](https://www.mongodb.com/) - NoSQL database
 
 ## Authors
 
